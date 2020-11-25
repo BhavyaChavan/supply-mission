@@ -1,2 +1,1 @@
-# supply-mission
-game
+# SupplyMission
